@@ -1,11 +1,22 @@
-<div align="center">
+# Global Talent UI — Content Management System
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Platform manajemen konten bilingual (ID/EN) untuk Program Global Talent Universitas Indonesia.
 
-  <h1>Built with AI Studio</h2>
+## Tech Stack
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Frontend**: React + TypeScript + Vite
+- **State Management**: React Context / Hooks
+- **Backend & Database**: Firebase (Firestore + Auth + Storage)
+- **Styling**: Tailwind CSS
+- **Animations**: Motion
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Fitur
 
-</div>
+- 🌐 Bilingual (Indonesia / English)
+- 📢 Manajemen Pengumuman (CRUD + PDF attachment)
+- ✍️ Artikel & Berita
+- 📄 Publikasi Ilmiah
+- 🗂️ Dokumen & Media
+- 📋 Form Pendaftaran dengan file upload
+- 👥 Role-based admin (superadmin, editor, reviewer)
+- ⚙️ Pengaturan global website
